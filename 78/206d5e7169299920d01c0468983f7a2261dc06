@@ -1,0 +1,16 @@
+dldemos/VAE/main.py
+  h_89bc17edd88fde 45-46,58,66,70,76,84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "78206d5e7169299920d01c0468983f7a2261dc06",
+  "prompts": {},
+  "humans": {
+    "h_89bc17edd88fde": {
+      "author": "zhangbo.999 <zhangbo.999@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
